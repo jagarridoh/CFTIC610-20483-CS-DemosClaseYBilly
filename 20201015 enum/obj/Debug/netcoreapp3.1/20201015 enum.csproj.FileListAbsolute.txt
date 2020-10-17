@@ -1,0 +1,13 @@
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.csprojAssemblyReference.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.AssemblyInfoInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.AssemblyInfo.cs
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.csproj.CoreCompileInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.deps.json
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.runtimeconfig.json
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.runtimeconfig.dev.json
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.dll
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\bin\Debug\netcoreapp3.1\20201015 enum.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.dll
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201015 enum\obj\Debug\netcoreapp3.1\20201015 enum.genruntimeconfig.cache

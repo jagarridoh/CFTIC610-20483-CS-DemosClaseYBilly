@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "LwNCTcQFUtgk+aB1ACykRaAol7real8kAZwUDQ4wlWuLd/p7Ds6FItpeEQNYz1YfiTzBP3WUB0vxkaPLVhIggg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\Monitorizacion-con-CSharp-Event-Viewer-main\\WritingWindowsEventLogs.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.diagnostics.eventlog\\4.7.0\\system.diagnostics.eventlog.4.7.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
