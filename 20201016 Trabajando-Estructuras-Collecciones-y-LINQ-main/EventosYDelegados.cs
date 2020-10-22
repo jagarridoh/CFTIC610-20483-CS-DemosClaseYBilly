@@ -3,8 +3,17 @@ namespace EventosYDelegados
 {
     class Program
     {
+        public struct Clima {
+            //public double ValorMatutino {get; set;}
+            public double ValorMatutino;
+        }
         public static void Main()
         {
+            Clima clima = new Clima();
+            Clima clima2;
+            clima2.ValorMatutino = 1;
+            clima.ValorMatutino = 10;
+
             Coffee coffe = new Coffee
             {
                 Bean = "Dark",

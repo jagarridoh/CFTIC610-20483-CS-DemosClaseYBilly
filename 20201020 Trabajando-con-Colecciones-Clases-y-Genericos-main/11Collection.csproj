@@ -1,0 +1,10 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_11Collection</RootNamespace>
+    <NoWarn>$(NoWarn);0649</NoWarn><!-- Field '*' is never assigned to, and will always have its default value null -->
+  </PropertyGroup>
+
+</Project>

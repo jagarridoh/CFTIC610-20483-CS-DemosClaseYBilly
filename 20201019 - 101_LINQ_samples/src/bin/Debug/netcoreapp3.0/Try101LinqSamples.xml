@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Try101LinqSamples</name>
+    </assembly>
+    <members>
+        <member name="M:Try101LinqSamples.Program.Main(System.String,System.String,System.String,System.String,System.String[])">
+            <param name="region">Takes in the --region option from the code fence options in markdown</param>
+            <param name="session">Takes in the --session option from the code fence options in markdown</param>
+            <param name="package">Takes in the --package option from the code fence options in markdown</param>
+            <param name="project">Takes in the --project option from the code fence options in markdown</param>
+            <param name="args">Takes in any additional arguments passed in the code fence options in markdown</param>
+            <see>To learn more see <a href="https://aka.ms/learntdn">our documentation</a></see>
+        </member>
+    </members>
+</doc>
