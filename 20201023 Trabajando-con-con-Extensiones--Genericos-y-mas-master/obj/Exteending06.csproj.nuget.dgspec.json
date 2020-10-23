@@ -1,25 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj": {}
+    "D:\\BMV\\20483C\\Mod 5-8\\Exteending06\\Exteending06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj": {
+    "D:\\BMV\\20483C\\Mod 5-8\\Exteending06\\Exteending06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj",
-        "projectName": "20201022 Extending06",
-        "projectPath": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj",
-        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\obj\\",
+        "projectUniqueName": "D:\\BMV\\20483C\\Mod 5-8\\Exteending06\\Exteending06.csproj",
+        "projectName": "Exteending06",
+        "projectPath": "D:\\BMV\\20483C\\Mod 5-8\\Exteending06\\Exteending06.csproj",
+        "packagesPath": "C:\\Users\\Billy Vanegas\\.nuget\\packages\\",
+        "outputPath": "D:\\BMV\\20483C\\Mod 5-8\\Exteending06\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\"
-        ],
         "configFilePaths": [
-          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Users\\Billy Vanegas\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

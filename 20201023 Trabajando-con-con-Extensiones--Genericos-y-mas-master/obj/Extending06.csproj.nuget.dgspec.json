@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj": {}
+    "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201023 Trabajando-con-con-Extensiones--Genericos-y-mas-master\\Extending06.csproj": {}
   },
   "projects": {
-    "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj": {
+    "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201023 Trabajando-con-con-Extensiones--Genericos-y-mas-master\\Extending06.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj",
-        "projectName": "20201022 Extending06",
-        "projectPath": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\20201022 Extending06.csproj",
+        "projectUniqueName": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201023 Trabajando-con-con-Extensiones--Genericos-y-mas-master\\Extending06.csproj",
+        "projectName": "Extending06",
+        "projectPath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201023 Trabajando-con-con-Extensiones--Genericos-y-mas-master\\Extending06.csproj",
         "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\usuario\\cftic\\CFTIC610-20483-CS-DemosClaseYBilly\\20201022 Extending06\\obj\\",
+        "outputPath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201023 Trabajando-con-con-Extensiones--Genericos-y-mas-master\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"

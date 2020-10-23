@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Reflection;
 using System.Collections.Generic;
+using ExtensionsMethods;
+using static System.Console;
 
 namespace _20201022_Extending06
 {
@@ -11,16 +13,58 @@ namespace _20201022_Extending06
             Console.WriteLine("Hello World!");
             // new Program().UsingReflection();
             // new Program().UsingExtendedList();
-            try {
-                Console.WriteLine("antes del trhow");
-                throw new LoyaltyCardNotFoundException("Este es el mensaje de error.");
-                Console.WriteLine("despues del trhow");
-            } catch(LoyaltyCardNotFoundException ex) {
-                Console.WriteLine(ex.Message);
-            } finally {
-                Console.WriteLine("ESto es el finally.");
-            }
             
+            // try
+            // {
+            //     Console.WriteLine("antes del trhow");
+            //     throw new LoyaltyCardNotFoundException("Este es el mensaje de error.");
+            //     Console.WriteLine("despues del trhow");
+            // }
+            // catch (LoyaltyCardNotFoundException ex)
+            // {
+            //     Console.WriteLine(ex.Message);
+            // }
+            // finally
+            // {
+            //     Console.WriteLine("ESto es el finally.");
+            // }
+
+            new Program().UsingExtensionMethod();
+
+        }
+
+
+        public void UsingExtensionMethod()
+        {
+            Console.WriteLine("Please type some text that contains numbers and then press Enter");
+            string text = Console.ReadLine();
+            if (text.ContainsNumbers())
+            {
+                Console.WriteLine("Your text contains numbers. Well done!");
+            }
+            else
+            {
+                Console.WriteLine("Your text does not contain numbers. Please try again.");
+            }
+            Console.WriteLine($"El numero de palabras del texto es:{text.WordCount()}");
+            EjemploExtension eE = new EjemploExtension();
+            eE.ListaNumeros();
+            eE.ListaDescendente();
+
+            Grades g1 = Grades.D;
+            Grades g2 = Grades.F;
+            Console.WriteLine("First {0} a passing grade.", g1.Passing() ? "is" : "is not");
+            Console.WriteLine("First {0} a passing grade.", g2.Passing() ? "is" : "is not");
+
+            ExtensionsClass.minPassing  = Grades.C;
+            Console.WriteLine("\r\nRaising the bar!");
+            Console.WriteLine("First {0} a passing grade.", g1.Passing() ? "is" : "is not");
+            Console.WriteLine("First {0} a passing grade.", g2.Passing() ? "is" : "is not");
+
+            int Numero = 3;
+            WriteLine($"{Numero} Es mayor que cinco? {Numero.IsGreaterThanFive()}");
+            Numero = 6;
+            WriteLine($"{Numero} Es mayor que cinco? {(Numero.IsGreaterThanFive() ? "Si" : "No")}");
 
         }
 
