@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "UT/0u1fSTLyXtuz6MZi8EfkzUjc3uVJlhaJ/C7G6uVA/eo4wMyyQgQ8vrh838C2JbUUm9By0GjRLDCmThvjLcw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\File7.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\usuario\\.nuget\\packages\\microsoft.csharp\\4.4.1\\microsoft.csharp.4.4.1.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.commandline\\2.0.0-beta1.20371.2\\system.commandline.2.0.0-beta1.20371.2.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.commandline.dragonfruit\\0.3.0-alpha.20371.2\\system.commandline.dragonfruit.0.3.0-alpha.20371.2.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.commandline.rendering\\0.3.0-alpha.20371.2\\system.commandline.rendering.0.3.0-alpha.20371.2.nupkg.sha512",
+    "C:\\Users\\usuario\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512"
+  ],
+  "logs": []
+}

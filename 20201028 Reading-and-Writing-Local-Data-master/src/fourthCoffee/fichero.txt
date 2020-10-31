@@ -1,0 +1,12 @@
+using System;
+
+namespace PruebaEnum {
+    class Program {
+        enum Day { Sunday, Monday, Tuesday, Wednesday, Thursday, Friday, Saturday};
+
+        static void Main(string[] args) {
+            Day favorito = Day.Monday;
+            Console.WriteLine(favorito);
+        }
+    }
+}

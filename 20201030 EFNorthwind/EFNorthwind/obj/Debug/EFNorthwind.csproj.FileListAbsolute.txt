@@ -1,0 +1,12 @@
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\obj\Debug\EFNorthwind.csprojAssemblyReference.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\obj\Debug\EFNorthwind.csproj.CoreCompileInputs.cache
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EFNorthwind.exe.config
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EFNorthwind.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EFNorthwind.pdb
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EntityFramework.dll
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EntityFramework.xml
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\obj\Debug\EFNorthwind.csproj.CopyComplete
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\obj\Debug\EFNorthwind.exe
+C:\Users\usuario\CFTIC\CFTIC610-20483-CS-DemosClaseYBilly\20201030 EFNorthwind\EFNorthwind\obj\Debug\EFNorthwind.pdb

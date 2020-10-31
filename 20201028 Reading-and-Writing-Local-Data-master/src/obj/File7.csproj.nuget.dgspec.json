@@ -1,0 +1,74 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\File7.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\File7.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\File7.csproj",
+        "projectName": "File7",
+        "projectPath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\File7.csproj",
+        "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\usuario\\CFTIC\\CFTIC610-20483-CS-DemosClaseYBilly\\20201028 Reading-and-Writing-Local-Data-master\\src\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta1.20371.2, )"
+            },
+            "System.CommandLine.DragonFruit": {
+              "target": "Package",
+              "version": "[0.3.0-alpha.20371.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
